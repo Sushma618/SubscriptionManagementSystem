@@ -1,0 +1,14 @@
+{
+  "name": "lumen-quest-root",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.2",
+    "mongoose": "^8.18.1",
+    "react-scripts": "^5.0.1"
+  }
+}
